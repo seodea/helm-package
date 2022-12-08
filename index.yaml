@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  subchart-test:
+  - apiVersion: v2
+    appVersion: 1.23-alpine
+    created: "2022-12-08T18:03:09.444416+09:00"
+    description: A Helm chart for Kubernetes
+    digest: a3faf9a546f971bfcd009abccfeac25458dc24fc09b884e56ef162972e1e16bb
+    name: subchart-test
+    type: application
+    urls:
+    - https://github.com/seodea/helm-pakage/chart/main/subchart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-08T18:03:09.443801+09:00"
