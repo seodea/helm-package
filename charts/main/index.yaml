@@ -9,6 +9,6 @@ entries:
     name: subchart-test
     type: application
     urls:
-    - https://seodea.github.io/helm-package/charts/main/subchart-test-0.1.0.tgz
+    - https://seodea.github.io/helm-package/charts/main/subchart-test-0.2.0.tgz
     version: 0.1.0
 generated: "2022-12-09T12:29:35.282007+09:00"
