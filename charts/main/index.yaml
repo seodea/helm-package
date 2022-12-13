@@ -11,4 +11,14 @@ entries:
     urls:
     - https://seodea.github.io/helm-package/charts/main/subchart-test-0.1.0.tgz
     version: 0.1.0
+  - apiVersion: v1
+    appVersion: latest
+    created: "2022-12-13T10:20:35.428637+09:00"
+    description: Project template Helm chart for Kubernetes
+    digest: 355d900e121bbaf2a786f1b2da0f9fe34f3c206a67f3045b43cd1eabcdd19fdb
+    name: subchart-test
+    type: application
+    urls:
+    - https://seodea.github.io/helm-package/charts/main/subchart-test-0.2.0.tgz
+    version: 0.2.0
 generated: "2022-12-09T16:33:21.121912+09:00"
