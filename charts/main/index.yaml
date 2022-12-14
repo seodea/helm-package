@@ -1,24 +1,24 @@
 apiVersion: v1
 entries:
   subchart-test:
-  - apiVersion: v2
-    appVersion: 1.23-alpine
-    created: "2022-12-09T16:33:21.126477+09:00"
-    description: A Helm chart for Kubernetes
-    digest: dc341f37218f09b53408c24bbcb2f80347a9378a7e7bda6d2ca3a47cf59e936b
-    name: subchart-test
-    type: application
-    urls:
-    - https://seodea.github.io/helm-package/charts/main/subchart-test-0.1.0.tgz
-    version: 0.1.0
   - apiVersion: v1
-    appVersion: latest
-    created: "2022-12-13T10:20:35.428637+09:00"
+    appVersion: 1.23-alpine
+    created: "2022-12-14T09:31:57.662814+09:00"
     description: Project template Helm chart for Kubernetes
-    digest: 355d900e121bbaf2a786f1b2da0f9fe34f3c206a67f3045b43cd1eabcdd19fdb
+    digest: 280bba3f72f55c7a6a839a711f8c0092311625935ab9513f04d24f2f33a6dfa7
     name: subchart-test
     type: application
     urls:
     - https://seodea.github.io/helm-package/charts/main/subchart-test-0.2.0.tgz
     version: 0.2.0
-generated: "2022-12-09T16:33:21.121912+09:00"
+  - apiVersion: v1
+    appVersion: 1.23-alpine
+    created: "2022-12-14T09:31:57.661761+09:00"
+    description: Project template Helm chart for Kubernetes
+    digest: a313c3c1c14a8e2f17b81feb4dd62f85080bc6bbf39953628233aa4efe60aa6c
+    name: subchart-test
+    type: application
+    urls:
+    - https://seodea.github.io/helm-package/charts/main/subchart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-14T09:31:57.65514+09:00"
